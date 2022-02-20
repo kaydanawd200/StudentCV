@@ -1,0 +1,89 @@
+.Name {
+    color:#3D3D3D;
+    font-family:'Inconsolata', monospace;
+    font-size: 80px;
+    align-content: center;
+    align-items: center;
+    padding: 10px 100px 1px ;
+    text-align: center;
+    margin: 10px 200px 8px ;   
+}
+header {  
+    padding:60px;
+    padding-bottom: 10px;
+    margin: auto;
+}
+
+body{
+    border: 10px double #3D3D3D ; 
+}
+
+.about{
+    font-family:'Inconsolata', monospace;
+    background-color: #ECE9E1;
+    text-align:center;
+    color:black;
+    margin: 10px 200px 10px;
+    opacity: 50%;
+   
+}
+
+
+.education {
+    font-family:'Inconsolata', monospace;
+    background-color:#ECE9E1;
+    text-align:left;
+    color:black;
+    margin: 10px 200px 10px;
+    opacity: 50%;
+    font-weight: bold;
+}
+
+.projects {
+    font-family:'Inconsolata', monospace;
+    background-color: #ECE9E1;
+    text-align:left;
+    color:black;
+    margin: 10px 200px 10px;
+    opacity: 50%;
+    font-weight: bold;
+}
+
+
+
+footer {
+    background-color: #ECE9E1;
+    font-family:'Inconsolata', monospace;
+    text-align:left;
+    color:black;
+    padding :auto;
+    margin: auto;
+    align-content: center;
+    opacity: 70%;
+    
+}
+
+
+.fa-linkedin {
+    padding-left: 630px;
+    color:#0e76a8;
+   padding-right: 50px;
+   padding-bottom: 20px;
+   opacity: 50%;
+}
+
+
+
+.skills {
+   font-family: 'Inconsolata', monospace;
+   font-size:larger;
+   color:black;
+   text-align: center;
+}
+
+.html {
+    font-family: 'Inconsolata', monospace;
+    font-size:larger;
+    color:black;
+    text-align: center;
+}
